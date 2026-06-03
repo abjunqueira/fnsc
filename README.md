@@ -1,2 +1,2 @@
 # fnsc
-Versao 1/Jun/2026
+Versao 3/Jun/2026
